@@ -89,3 +89,38 @@
 .a-card{
     height: 200px;
 }
+.footer{
+    background-color: green ;
+color: white;
+height: 72PX;
+}
+form{
+    margin-left: 10% !important;
+    
+}
+/*logo css*/
+.logo{
+    
+   background-color: green;
+   border-radius: 50%;
+   font-size: 30px;
+   color: green;
+}
+.logo1{
+    font-size:30px;
+    position: relative;
+    left: -30px;
+    top: -3px;
+}
+.logo2{
+    font-size: 1em;
+    position: relative;
+    left:-23px;
+    top: -11px;
+}
+.logo3{
+    position: relative;
+    left: -75px;
+    font-size: 10px;
+}
+
